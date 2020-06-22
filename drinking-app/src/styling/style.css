@@ -1,0 +1,8 @@
+.item{
+    padding: 5vw;
+    text-align: center;
+}
+.item > img{
+    width: 20vw;
+    cursor: pointer;
+}
